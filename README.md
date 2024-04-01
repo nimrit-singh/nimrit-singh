@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nimrit-singh
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate
+-  Hi, I’m @nimrit-singh
+- I’m interested in everything
+- I’m currently learning 
+- I’m looking to collaborate
 
 
 <!---
